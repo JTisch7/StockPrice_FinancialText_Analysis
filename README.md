@@ -1,3 +1,6 @@
+# Project.ipynb   
+A notebook with everything including data extraction and preparation, sentiment analysis and model exploration, and then putting it all together with classis models, ensembles, and RNNs
+
 # Financial_Text_Analysis/
 
 ### Bert_HuggingFaceTransformers :  
