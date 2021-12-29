@@ -1,5 +1,5 @@
 # Project.ipynb   
-A notebook with everything from start to finish including data extraction and preparation, sentiment analysis and model exploration, and putting it all together with classis models, ensembles, and RNNs
+A notebook with everything from start to finish including data extraction and preparation, sentiment analysis and model exploration, and putting it all together with classis models, ensembles, and RNNs - https://github.com/JTisch7/StockPrice_FinancialText_Analysis/blob/main/Project.ipynb
 
 # Financial_Text_Analysis/
 
